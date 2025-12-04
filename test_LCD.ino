@@ -69,5 +69,5 @@ void setup()
 
 void loop()
 {
-  // không làm gì
+  // Tuyet Nhung xinh dep
 }
